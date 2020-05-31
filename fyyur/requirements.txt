@@ -2,3 +2,11 @@ babel
 python-dateutil==2.6.0
 flask-moment
 flask-wtf
+flask
+flask-sqlalchemy
+postgresql
+flask-migrate
+logging
+sys
+forms
+time
